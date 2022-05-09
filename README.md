@@ -1,6 +1,6 @@
 # Flink Monitoring API Golang library
 
-[![GoDoc](https://godoc.org/github.com/flink-go/api?status.svg)](https://godoc.org/github.com/flink-go/api)
+[![GoDoc](https://godoc.org/github.com/thinry/api?status.svg)](https://godoc.org/github.com/thinry/api)
 
 Detail doc: https://ci.apache.org/projects/flink/flink-docs-stable/monitoring/rest_api.html
 
@@ -13,7 +13,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/flink-go/api"
+	"github.com/thinry/api"
 )
 
 func main() {

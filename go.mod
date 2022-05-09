@@ -1,3 +1,3 @@
-module github.com/flink-go/api
+module github.com/thinry/api
 
-go 1.14
+go 1.17
